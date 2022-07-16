@@ -10,9 +10,9 @@ import random
 
 class Base:
     """Base model.
-
+    
     Represents a base class.
-
+    
     Private Class Attributes:
         __nb_object (int): Number of instantiated Bases.
     """
