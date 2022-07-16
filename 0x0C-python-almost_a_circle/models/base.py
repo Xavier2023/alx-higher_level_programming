@@ -21,7 +21,7 @@ class Base:
 
     def __init__(self, id=None):
         """Initialize a new base method.
-        
+
         Args:
             id (int): The identity of the new Base.
         """
